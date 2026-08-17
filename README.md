@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Vincenty%27s_formulae
 Далее вводится расстояние до рассчитываемой точки в метрах
 затем вводится истинный азимут в градусах
 
-1. Координаты [Буфер Обмена/Ввод в ручную] (обязательно)
+1. Координаты [Буфер Обмена/Ввод в ручную] (обязательно)   
 Доступный формат
    - N52°15'58.7542" E104°18'35.9373"
    - N52°15.979238' E104°18.598956'
@@ -36,7 +36,7 @@ If no coordinates are set, the user is prompted to enter the starting coordinate
 Next, enter the distance to the target point in meters.
 Then, enter the true azimuth in degrees.
 
-1. Coordinates [Clipboard / Manual Entry] (required)
+1. Coordinates [Clipboard / Manual Entry] (required)   
 Supported formats:
    - N52°15'58.7542" E104°18'35.9373"
    - N52°15.979238' E104°18.598956'
