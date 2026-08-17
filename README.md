@@ -44,8 +44,8 @@ Supported formats:
    - N52.26632063 E104.30998260
 2. Distance in meters (required)
 3. Azimuth [120RM10.8]
-   - 120: angle in degrees (required)
-   - R: back azimuth (optional)
-   - M10.8: magnetic declination for calculating magnetic azimuth (optional)
+   - 120 angle in degrees (required)
+   - R back azimuth (optional)
+   - M10.8 magnetic declination for calculating magnetic azimuth (optional)
   
 The result is output to the console and copied to the clipboard.
